@@ -4,7 +4,7 @@ Aplikasi web sederhana untuk mencari bahan makanan (ingredients), daftar makanan
 
 ---
 
-## itur Utama
+## Fitur Utama
 
 ### Halaman Ingredients
 - Menampilkan daftar semua bahan makanan
@@ -22,7 +22,7 @@ Aplikasi web sederhana untuk mencari bahan makanan (ingredients), daftar makanan
 
 ---
 
-### Halaman Meal Detail (Opsional ⭐)
+### Halaman Meal Detail (Opsional)
 - Menampilkan detail makanan:
   - Gambar makanan
   - Nama makanan
