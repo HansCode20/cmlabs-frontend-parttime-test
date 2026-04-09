@@ -55,10 +55,10 @@ Aplikasi web sederhana untuk mencari bahan makanan (ingredients), daftar makanan
 
 ```bash
 # clone repository
-git clone https://github.com/username/mealapp.git
+git clone https://github.com/HansCode20/cmlabs-frontend-parttime-test.git
 
 # masuk ke folder project
-cd mealapp
+cd cmlabs-frontend-parttime-test
 
 # install dependencies
 npm install
